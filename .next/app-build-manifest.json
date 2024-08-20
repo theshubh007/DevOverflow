@@ -30,6 +30,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/(auth)/sign-in/[[...sign-in]]/page.js"
+    ],
+    "/(root)/ask-question/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(root)/ask-question/page.js"
     ]
   }
 }
