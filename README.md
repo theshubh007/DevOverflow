@@ -45,30 +45,7 @@ Explore the source code and delve into the world of modern web development with 
 
 ![Home Page](./assets//home_page.png)
 
-### Community Page
-
-![Community Page](./assets/community_page.png)
-
-### Collections Page
-
-![Collections Page](./assets/collections_page.png)
-
-### Find Jobs Page
-
-![Jobs Page](./assets/jobs_page.png)
-
-### Tags Page
-
-![Tags Page](./assets/tags_page.png)
-
 ### Profile Page
 
 ![Profile Page](./assets/profile_page.png)
 
-### Ask a Question Page
-
-![Ask a Question Page](./assets/ask_a_question_page.png)
-
-### Question Details Page
-
-![Question Details Page](./assets/question_details_page.png)
