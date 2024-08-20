@@ -11,30 +11,25 @@
       "static/chunks/main-app.js",
       "static/chunks/app/(root)/layout.js"
     ],
-    "/(root)/(home)/loading": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(root)/(home)/loading.js"
-    ],
     "/(root)/(home)/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/(root)/(home)/page.js"
     ],
-    "/(auth)/layout": [
+    "/(root)/(home)/loading": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(auth)/layout.js"
+      "static/chunks/app/(root)/(home)/loading.js"
     ],
-    "/(auth)/sign-in/[[...sign-in]]/page": [
+    "/(root)/profile/[id]/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(auth)/sign-in/[[...sign-in]]/page.js"
+      "static/chunks/app/(root)/profile/[id]/page.js"
     ],
-    "/(root)/ask-question/page": [
+    "/(root)/profile/[id]/loading": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(root)/ask-question/page.js"
+      "static/chunks/app/(root)/profile/[id]/loading.js"
     ]
   }
 }
