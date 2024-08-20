@@ -3,9 +3,12 @@
 Welcome to Dev Overflow - a comprehensive StackOverflow-like platform. This app is built with Next.js, utilizing cutting-edge web development techniques to provide a feature-rich experience.
 
 ## Features:
-- **Next.js Implementation**: Utilized Next.js to implement SSR and SSG, enhancing performance and SEO, crucial for a high-traffic platform like stack overflow.
-- **UI/UX Optimization**: Created a fully responsive design using Tailwind CSS, ensuring a seamless experience across devices. Also Leveraged Radix UI to build accessible and interactive components, ensuring compliance with web accessibility standards.
-- **Robust Form Handling and Validation**: Implemented efficient form handling with React Hook Form, combined with Zod for TypeScript-first schema validation, ensuring data integrity and improving user experience.
+- ### Next.js Implementation: 
+ Utilized Next.js to implement SSR and SSG, enhancing performance and SEO, crucial for a high-traffic platform like stack overflow.
+- ### UI/UX Optimization: 
+ Created a fully responsive design using Tailwind CSS, ensuring a seamless experience across devices. Also Leveraged Radix UI to build accessible and interactive components, ensuring compliance with web accessibility standards.
+- ### Robust Form Handling and Validation:
+ Implemented efficient form handling with React Hook Form, combined with Zod for TypeScript-first schema validation, ensuring data integrity and improving user experience.
 - **AI-Powered Features**: Integrated OpenAI to generate automated answers to incorporate cutting-edge AI technologies into web applications.
 - **Recommendation System**: Unique system for recommending posts.
 - **Scalable Data Management**: Designed a scalable database architecture using MongoDB and Mongoose, enabling efficient data storage and retrieval for a dynamic content platform.
